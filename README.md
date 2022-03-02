@@ -1,2 +1,2 @@
 new update
-modified README.md from github
+modified the README.md from github
